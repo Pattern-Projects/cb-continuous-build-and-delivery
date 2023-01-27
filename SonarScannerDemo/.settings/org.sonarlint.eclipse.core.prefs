@@ -1,0 +1,6 @@
+autoEnabled=true
+eclipse.preferences.version=1
+idePrefixKey=
+projectKey=java-sonar-scanner-demo-1
+serverId=localhost -sonarqube
+sqPrefixKey=
